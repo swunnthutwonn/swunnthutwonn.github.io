@@ -1,11 +1,11 @@
 # Swunn Thut Wonn
-### MIS Analyst Manager / Assistant Manager
-📍 Yangon, Myanmar | 📱 +95 9965126001 | ✉️ swunnthutwonn@gmail.com
+### MIS Analyst Manager / Deputy Manager
+📍 Yangon, Myanmar | 📱 +95 9760500007 | ✉️ swunnthutwonn@gmail.com
 
 ---
 
 ## 🚀 Professional Summary
-Result-oriented and analytical MIS Analyst Manager with over 8 years of extensive experience in the banking sector (Yoma Bank & Kanbawza Bank). Proven track record in data analysis, database management, automated reporting, and fraud investigation. Adept at transforming complex datasets into actionable insights to drive strategic business decisions.
+Result-oriented and analytical MIS Analyst Manager with over 11 years of extensive experience in the banking sector (Yoma Bank & Kanbawza Bank). Proven track record in data analysis, database management, automated reporting, and fraud investigation. Adept at transforming complex datasets into actionable insights to drive strategic business decisions.
 
 ---
 
@@ -44,7 +44,6 @@ Result-oriented and analytical MIS Analyst Manager with over 8 years of extensiv
 * **Shine Performance Award (2019):** Awarded at Kanbawza Bank (Smart Unsecured Consumer Value Center).
 * **Product Innovation:** Actively involved in developing new loan products (Agent Working Capital Loan, KBZPAY Hire Purchase loan, KBZPAY Personal Loan, Distributor Loan).
 * **Department Building:** Assisted in building a New Fraud Investigation Department, establishing new procedures, workflows, and fraud rules.
-
 ---
 
 ## 🎓 Education & Certifications
